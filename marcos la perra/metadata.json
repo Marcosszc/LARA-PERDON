@@ -1,0 +1,6 @@
+{
+  "name": "Red de Puntos de Asistencia",
+  "description": "Gestión de puntos de inflado y herramientas con Supabase, OpenStreetMap y acceso directo a Google Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
